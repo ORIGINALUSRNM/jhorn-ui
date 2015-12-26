@@ -1,0 +1,29 @@
+{
+  "name": "jhorn-ui",
+  "version": "1.0.0",
+  "description": "Angularjs directive ui library",
+  "main": "index.js",
+  "scripts": {
+    "start": "python -m SimpleHTTPServer",
+    "test": "echo \"Error: no test specified\"",
+    "logconsole": "echo \"I am Lord!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ORIGINALUSRNM/jhorn-ui.git"
+  },
+  "keywords": [
+    "angular",
+    "ui",
+    "directives"
+  ],
+  "author": "Jason Hornbuckle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ORIGINALUSRNM/jhorn-ui/issues"
+  },
+  "homepage": "https://github.com/ORIGINALUSRNM/jhorn-ui#readme",
+  "dependencies": {
+    "angular": "^1.4.8"
+  }
+}
